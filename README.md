@@ -4,7 +4,8 @@ Final project for the Johns Hopkins Getting and Cleaning Data Science Class
 
 Project Manifest
 
-runanalysis.R
+run_analysis.R
+
 	Downloads the "Human Activity Recognition Using Smartphones Dataset"  
 	containing summery accelerometer and gyroscope data.
     
