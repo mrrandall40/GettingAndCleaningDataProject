@@ -1,4 +1,5 @@
 # GettingAndCleaningDataProject
+<<<<<<< HEAD
 Final project for the Johns Hopkinds Getting and Cleaning Data Science Class
 
 Project Manifest
@@ -27,3 +28,6 @@ SummarizedHARTidyDataset.csv
 
 SummarizedHARTidyDataset.md - Codebook for SummarizedHARTidyDataset.csv
 
+=======
+Final project for the Johns Hopkins Getting and Cleaning Data Science Class
+>>>>>>> 3a2dbf964929f939914cb58d8aa03d7c7a13ffa7
